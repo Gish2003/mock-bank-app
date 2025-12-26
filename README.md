@@ -359,6 +359,4 @@ For production use, you should:
 
 ---
 
-## License
 
-MIT
